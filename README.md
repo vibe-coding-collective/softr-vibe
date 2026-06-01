@@ -14,6 +14,7 @@ Password: 25163313676026846447
 
 
 ## Useful Resources
+- [Vibe Coding with Softr 101 + 5 Bonus tips](https://www.softr.io/blog/softr-building-modes-explained "Vibe Coding with Softr 101 + 5 Bonus tips")
 - [How to build an app with AI (in under 10 minutes)](https://www.softr.io/blog/how-to-build-a-business-app-with-ai "How to build an app with AI (in under 10 minutes)")
 
 
