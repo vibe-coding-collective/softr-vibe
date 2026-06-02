@@ -10,7 +10,8 @@ Password: 25163313676026846447
 <img width="300" height="304" alt="image" src="https://github.com/user-attachments/assets/9ee00b4b-7af3-47d8-bf4c-098347bc67a0" />
 
 
-## Challenges today
+## Challenges today 
+Use them as a guide, not as a mandatory assignment! 
 <img width="449" height="369" alt="image" src="https://github.com/user-attachments/assets/1d7a9d48-1aff-4523-9b18-41566c9b96fc" />
 
 
