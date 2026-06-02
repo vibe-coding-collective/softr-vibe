@@ -7,7 +7,8 @@ Follow us everywhere to keep an eye on new events!
 WIFI: Fritz!Box 7580RG,  
 Password: 25163313676026846447
 
-<img width="322" height="324" alt="image" src="https://github.com/user-attachments/assets/54abb425-c53c-4e31-9d9d-ad38bd01aed4" />
+<img width="1480" height="1500" alt="image" src="https://github.com/user-attachments/assets/9ee00b4b-7af3-47d8-bf4c-098347bc67a0" />
+
 
 ## Challenges today
 <img width="449" height="369" alt="image" src="https://github.com/user-attachments/assets/1d7a9d48-1aff-4523-9b18-41566c9b96fc" />
