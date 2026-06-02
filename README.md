@@ -23,7 +23,7 @@ One rule: your list needs 1000+ rows.
 
 ## Softr Credits
 FOR NEW SOFTR USERS (no existing account)
-Use a referral link [link](ttps://www.softr.io/build-with/vcc  "link") 
+Use a referral [link](https://www.softr.io/build-with/vcc  "link") 
 (This flow starts you in the AI Co-Builder, so you should generate an app first before signing up). 
 
 FOR EXISTING SOFTR USERS (already have an account)
