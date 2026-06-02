@@ -22,6 +22,13 @@ Then how about using those knowledge hubs with GBs of data?
 One rule: your list needs 1000+ rows. 
 
 ## Softr Credits
+FOR NEW SOFTR USERS (no existing account)
+Use a referral link [link](ttps://www.softr.io/build-with/vcc  "link") 
+(This flow starts you in the AI Co-Builder, so you should generate an app first before signing up). 
+
+FOR EXISTING SOFTR USERS (already have an account)
+Use promo code **VCCBUILD** 
+(Put in the code, and then start in the AI Co-Builder). 
 
 
 ## Useful Resources
