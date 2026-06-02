@@ -1,5 +1,5 @@
 # Vibe Coding Collective with Softr 
-[Start with Softr](https://studio.softr.io/dashboard "Start with Softr")
+[Start with Softr](https://www.softr.io/build-with/vcc "Start with Softr")
 
 Follow us everywhere to keep an eye on new events!
 [Linkedin](https://www.linkedin.com/company/vibe-coding-collective/ "Linkedin") / [Instagram](https://www.instagram.com/vibecoding.collective "Instagram") / [Twitter](https://x.com/vcodersglobal?s=21 "Twitter") / [Luma](https://luma.com/Vibecoders.global "Luma") / [Meetup](https://www.meetup.com/vibe-coding-collective/ "Meetup")
